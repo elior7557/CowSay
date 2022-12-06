@@ -17,4 +17,9 @@ https://cowsay-node.herokuapp.com/
 (3) Set PORT environment variable (if not set, 8080 will be used)
 (4) npm start
 
+## Second Option
+- Make sure you have docker installed on your system
+- give premmision to init-cowsay.sh and run!
+- The site will be working on localhost:4001
+
 Enjoy it. ^_____^ ..
