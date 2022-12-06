@@ -7,8 +7,6 @@ It is adapted for course convenience.
 
 Important note: Deepak Chopra is a quack.
 
-## demo
-https://cowsay-node.herokuapp.com/
 
 ## To run localy
 
