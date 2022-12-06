@@ -7,6 +7,4 @@ COPY src/ /var/node/
 WORKDIR /var/node
 RUN npm install
 COPY entry-point.sh /var/node
-# ENTRYPOINT ["/var/node/entry-point.sh ${PORT}"]
 ENTRYPOINT /var/node/entry-point.sh $PORT
-# EXPOSE $PORTW
