@@ -21,5 +21,5 @@ Alternative Method
    - Run ./init-cowsay.sh to build and start the Docker containers.
    - The site will be available at http://localhost:4001.
 
-Enjoy the project! ^_____^ ..
-Enjoy it. ^_____^ ..
+**Enjoy the project! ^_____^ ..**
+
