@@ -14,7 +14,7 @@ It is adapted for convenience.
    - Set the PORT environment variable (if not set, the default value of 8080 will be used).
    - Start the server using npm start.
 
-Alternative Method
+## Alternative Method
 
    - Make sure you have Docker installed on your system.
    - Give execution permission to init-cowsay.sh using chmod +x init-cowsay.sh.
